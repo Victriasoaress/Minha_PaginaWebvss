@@ -1,0 +1,46 @@
+.h1 {
+    font-size: 60px;
+    color: rgb(255, 2, 158);
+    font-family: cursive;
+    position: relative;
+    top: 23%;
+  }
+  
+  header {
+    font-size: 60px;
+    color: rgb(255, 2, 158);
+    text-shadow: 60px 60px 60px rgb(255, 0, 106);
+  }
+  
+  
+  .h2 {
+    font-size: 50px;
+    color: rgb(255, 2, 158);
+    font-family: cursive;
+    position: relative;
+    top: 15%;
+  }
+  
+  .question {
+    font-size: 50px;
+    color: rgb(255, 0, 153);
+    font-family: cursive;
+    position: relative;
+    top: 15%;
+  }
+  
+  .options {
+    font-size: 30px;
+    color: rgb(10, 0, 6);
+  }
+  
+  .button {
+    font-size: 60px;
+    position: relative;
+    top: 10px;
+    color: rgb(255, 2, 158);
+  }
+  
+  .message {
+    color: black;
+  }
